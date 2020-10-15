@@ -1,0 +1,96 @@
+body{
+
+background-color: lightgreen;
+
+}
+
+.uprostred{
+    padding: 80px;
+    padding-bottom: 30px;
+
+}
+
+a{
+    text-decoration: none;
+    color: darkslategrey;
+    padding: 30px;
+    font-size: 80px;
+   
+    
+}
+
+
+
+
+#heading h3, h3 { display: inline; }
+.znovaV{
+    font-size: 53px;
+}
+
+.znovu{ 
+    text-align: center;
+    border-radius: 40px;
+    border-width: 8px;
+    font-size: 20px;
+    margin: auto;
+    width: 20%;
+    border-style: solid;
+    border-color: lime;
+    background-color: lightgray;
+}
+
+.nadpis{
+    text-decoration: underline red;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.obr{
+    border-style: solid;
+    border-radius: 30px;
+    border:15px solid #596678;
+    
+    background-color: wheat;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 1;
+    width: 400px;
+    text-align: center;
+    padding: 100px;
+    height: 425px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    margin-left: 160px;
+    box-shadow: 5px 25px 18px #999966;
+}
+
+
+
+.vyhra{
+    text-align: center;
+    font-size: 55px;
+    color: #006600;
+    padding-bottom: 2px;
+}
+
+.odsebe{
+    margin-left: 550px;
+    font-size: 45px;
+}
+.odsebe2{
+    margin-left: 630px;
+    font-size: 45px;
+    
+    
+}
+
+img{
+    width: 480px;
+    height: 520px;
+    border-style: solid;
+    border-radius: 30px;
+    border:12px solid #808080;
+    
+    background-color: #e6e6e6;
+    
+}
